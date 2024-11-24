@@ -1,0 +1,3 @@
+pymavlink
+gradio
+flask
