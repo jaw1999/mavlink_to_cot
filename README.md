@@ -21,7 +21,7 @@ A Python-based web application that converts MAVLink telemetry data to Cursor on
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+
 cd mavlink-to-cot
 ```
 
