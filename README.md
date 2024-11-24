@@ -1,6 +1,6 @@
 # MAVLink to CoT Converter
 
-A Python-based web application that converts MAVLink telemetry data to Cursor on Target (CoT) format for integration with TAK systems. Features a dark-themed web interface for configuration and monitoring.
+A Python-based web application that converts MAVLink telemetry data to Cursor on Target (CoT) format for integration with TAK systems. 
 
 ## Features
 
